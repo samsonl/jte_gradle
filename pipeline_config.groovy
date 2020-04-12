@@ -14,7 +14,9 @@ dev{
 }
   
 libraries {
-        gradle2
+        gradle2 {
+          config_stuff = "config stuff"
+        }
 }
 
    
