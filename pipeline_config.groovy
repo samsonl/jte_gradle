@@ -1,11 +1,11 @@
 if ( 1 == 1 ) {
-libraries{
-    gradle
-}
+    libraries{
+        gradle
+    }
 } else {
-libraries{
-    gradle2
-}
+    libraries{
+        gradle2
+    }
 }
 
    
