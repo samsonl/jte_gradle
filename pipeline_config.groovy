@@ -17,8 +17,8 @@ libraries {
         gradle2 {
           config_stuff = "config stuff"
           script = """
-             echo "OK"
-             echo "OK2"
+             println "OK"
+             println "OK2"
           """
         }
 }
