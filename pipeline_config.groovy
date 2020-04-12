@@ -1,4 +1,5 @@
-    dev{
+application_environments{    
+dev{
         long_name = "Development"
         ec2{
             ips = [ "1.2.3.4", "1.2.3.5" ]
