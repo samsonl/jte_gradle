@@ -16,6 +16,10 @@ dev{
 libraries {
         gradle2 {
           config_stuff = "config stuff"
+          script = """
+             echo "OK"
+             echo "OK2"
+          """
         }
 }
 
