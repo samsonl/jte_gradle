@@ -1,6 +1,6 @@
 if ( 1 == 1 ) {
     libraries{
-        gradle2
+        gradle
     }
 } else {
     libraries{
