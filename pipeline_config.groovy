@@ -1,10 +1,10 @@
 if ( 1 == 1 ) {
     libraries{
-        gradle
+        gradle2
     }
 } else {
     libraries{
-        gradle2
+        gradle
     }
 }
 
